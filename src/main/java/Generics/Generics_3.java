@@ -1,7 +1,6 @@
 package Generics;
 
 import java.util.ArrayList;
-import java.util.List;
 
 class Product {}
 class Tv1 extends Product {}
